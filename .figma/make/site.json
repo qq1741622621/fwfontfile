@@ -1,0 +1,10 @@
+{
+  "description": "Discover and collect a wide variety of fonts for gaming and design projects, catering to enthusiasts and professionals seeking unique typography.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
