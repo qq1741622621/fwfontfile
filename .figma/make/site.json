@@ -1,5 +1,6 @@
 {
-  "description": "Discover and collect a wide variety of fonts for gaming and design projects, catering to enthusiasts and professionals seeking unique typography.",
+  "title": "FW字体档案库",
+  "description": "发现并收集各种游戏和设计项目所需的字体，满足寻求独特字体的爱好者和专业人士的需求。",
   "robots": {
     "index": false
   },
